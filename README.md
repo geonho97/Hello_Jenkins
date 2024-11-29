@@ -20,6 +20,3 @@ heart's desire.
 DevOps is about experimentation. These exercises are not in any way "500 level" class experiments. The goal here is to
 experiment with something new that you haven't before and then break it. Fix what you broke. Then break it again. 
 You'll learn and who doesn't like breaking stuff??
-
-### Thank You  
-Justin Bankes <justin@liatrio.com>  
